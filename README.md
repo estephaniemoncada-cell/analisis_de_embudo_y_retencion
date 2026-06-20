@@ -26,11 +26,8 @@ Las herramientas utilizadas fueron: SQL y Google Sheets </p>
 [Ver análisis completo en Jupyter Notebook](https://github.com/estephaniemoncada-cell/analisis_de_embudo_y_retencion/blob/main/Proyecto%204_%20An%C3%A1lisis%20de%20embudo%20y%20retenci%C3%B3n%20para%20MercadoLibre%20-%20Resumen%20ejecutivo.pdf)
 
 # Insights 
-
 * <p align="justify">Analizamos el funnel general de compras de Mercado Libre por pais y por el periodo de tiempo entre el 01-01-2025 y el 08-31-2025, para saber la tasa de conversion entre cada etapa	"El 65.89% de los usuarios abandona el proceso entre seleccionar el producto y agregarlo al carrito. El pais con mayor porcentaje de abandono es Bolivia con un 70.97%, por otro lado Uruguay tiene el menor porcentaje de abandono con un 59.09%"
 * <p align="justify">Se analizo la retencion de los usuarios por 7 dias, 14 dias, 21 dias y 28 dias los cuales se registaron entre el periodo del 01-01-2025 y el 06-01-2025, de igual forma se analizo la retencion por pais	"Se observa que la mayor retencion de usuarios se tiene entre el dia 7 y el dia 14 con un promedio de 32.57% de retencion de los usuarios.El pais con mayor retencion de usuarios al final del periodo es México y el pais con menor retencion de usuarios a lo largo del periodo estipulado es Bolivia"
-
-
 
 # Recomendación:
 * <p align="justify"> Mejoraria la etapa de seleccionar el producto, muchas veces se puede deber a que la fotorafia no es muy atractiva o no muestra los detalles necesarios. Tambien incentivaria a los usuarios a colocar opiniones sobre el producto, ya que esto da mayor confianza al futuro comprador		
